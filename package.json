@@ -1,0 +1,15 @@
+{
+  "name": "versus-signaling-server",
+  "version": "1.0.0",
+  "description": "Lightweight WebRTC signaling and matchmaking server for Geometry Dash Versus mod",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
